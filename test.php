@@ -6,5 +6,5 @@
  */
 
 print "super";
-
+PRINT 'ASDASDA';
 ?>
