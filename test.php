@@ -6,5 +6,4 @@
  */
 
 print "super";
-PRINT 'ASDASDA';
 ?>
